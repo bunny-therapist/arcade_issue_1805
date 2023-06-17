@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="5" height="5" tilewidth="128" tileheight="128" infinite="0" nextlayerid="3" nextobjectid="3">
+ <tileset firstgid="1" source="tileset.tsx"/>
+ <objectgroup id="2" name="objects">
+  <object id="1" class="Sprite" gid="1" x="128" y="384" width="131" height="188"/>
+  <object id="2" class="Sprite" gid="1" x="256" y="384" width="131" height="188" rotation="90"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,1 @@
+arcade @ git+https://github.com/pythonarcade/arcade@3fb1dcd6392f8953ecfedce6f3d35660d0c8f2b9
